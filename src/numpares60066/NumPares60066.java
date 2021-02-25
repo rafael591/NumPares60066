@@ -18,7 +18,7 @@ public class NumPares60066 {
         // TODO code application logic here
         int num = 0;
   
-        while (num < 48){
+        while (num < 94){
             if (num % 2 == 0){
             System.out.println(num);
         }
